@@ -33,7 +33,7 @@
 
 
 ### 🌐 Extracurricular
-- **2019~2020** — Chungcheongnam-do Public Data Supporters  
+- **2019~2020** — 충청남도 공공데이터 발굴 서포터즈
   Requested and proposed new public datasets to local public institutions  
   via the Public Data Portal  
 

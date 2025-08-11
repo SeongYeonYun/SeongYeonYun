@@ -44,7 +44,7 @@
 
 ### 🎯 Competitions Participated
 - 2018 — 빅데이터 분석 경진대회 (**수상**)
-- 2025 — 2025년 제7회 K-디지털 트레이닝 해커톤 (**참가**)  
+- 2025년 제7회 K-디지털 트레이닝 해커톤 (**참가**)  
    [프로젝트 보기](https://github.com/kim-jaeeun-class/M1F4_Project)
 
 

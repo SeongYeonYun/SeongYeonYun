@@ -12,7 +12,7 @@
   B.S. in Big Data Engineering / IT Financial Management
 
 ### 🌐 Extracurricular
-- **2019** — Chungcheongnam-do Public Data Supporters  
+- **2019~2020** — Chungcheongnam-do Public Data Supporters  
   Requested and proposed new public datasets to local public institutions  
   via the Public Data Portal
 

@@ -2,19 +2,19 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongYeonYun&show_icons=true&theme=radical)
 
 
-### 💼 Experience
-- **Student Intern** — *한국경영분석연구원* (Korea Management Analysis Institute) *(2021.07 – 2021.08)*  
-  - Implemented web crawling in **R** to retrieve equipment prices required for the MES (Manufacturing Execution System) support program  
-  - Assisted in **data processing**, **cleaning**, and **analysis** for internal research projects
-
-
-
-<br>
 
 
 ### 🎓 Education
 - **Soonchunhyang University (순천향대학교)**  
   B.S. in Big Data Engineering / IT Financial Management  
+
+
+<br>
+
+### 💼 Experience
+- **Student Intern** — *한국경영분석연구원* (Korea Management Analysis Institute) *(2021.07 – 2021.08)*  
+  - Implemented web crawling in **R** to retrieve equipment prices required for the MES (Manufacturing Execution System) support program  
+  - Assisted in **data processing**, **cleaning**, and **analysis** for internal research projects
 
 
 <br>

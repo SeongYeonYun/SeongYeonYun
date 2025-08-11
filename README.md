@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🎓 Graduated from Soonchunhyang University(순천향대학교)
+### 🎓 Graduated from Soonchunhyang University(순천향대학교)
 - (B.S. in Big Data Engineering / IT Financial Management)
 ------------------------------------------------------------------
-- 🌐 Extracurricular: Chungcheongnam-do Public Data Supporters  
+### 🌐 Extracurricular: Chungcheongnam-do Public Data Supporters  
   - Requested and proposed new public datasets to local public institutions via the Public Data Portal
 
 ### 🏆 Awards

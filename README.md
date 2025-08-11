@@ -27,7 +27,8 @@
 - Compared **Bollinger Bands** strategy with **LSTM** strategy, and experimented with a hybrid approach  
 - Conducted performance evaluation and profitability analysis based on historical simulation results  
 - Department of Big Data Engineering, Soonchunhyang University
-    [소스코드](https://github.com/SeongYeonYun/AI_TraingBot_LSTM)
+    
+  [소스코드](https://github.com/SeongYeonYun/AI_TraingBot_LSTM)
 
 
 <br>

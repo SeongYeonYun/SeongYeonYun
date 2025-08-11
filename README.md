@@ -63,3 +63,27 @@
 ### 📜 Certifications
 - ADsP (데이터 분석 준전문가)  
 - PC정비사 2급
+
+
+
+
+
+
+
+
+
+
+
+🚀 Skills
+Programming Languages
+Python
+JAVA
+C#
+
+Analysis Tools
+R
+RStudio
+
+Collaboration Tools
+GitHub
+discord

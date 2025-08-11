@@ -3,7 +3,7 @@
 
 ### 💼 Experience
 - **2021.07 – 2021.08** — Student Intern, Korea Management Analysis Institute  
-  Implemented web crawling in R to retrieve equipment prices required for  
+  Implemented(한국경영분석 연구원) web crawling in R to retrieve equipment prices required for  
   the MES (Manufacturing Execution System) support program  
   Assisted in data processing, cleaning, and analysis for internal research projects
 

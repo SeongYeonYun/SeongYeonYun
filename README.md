@@ -66,14 +66,6 @@
 
 
 
-
-
-
-
-
-
-
-
 ## 🚀 Skills
 
 ### 💻 Programming Languages
@@ -89,9 +81,18 @@
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
 </p>
 
+### 🛠 Frameworks & Servers
+<p align="left">
+  <!--<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>-->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+</p>
+
 ### 🤝 Collaboration Tools
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
+
+
 

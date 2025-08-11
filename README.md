@@ -21,6 +21,7 @@
 
 
 ### 📄 Research / Graduation Thesis (2023)
+[소스코드](https://github.com/SeongYeonYun/AI_TraingBot_LSTM)
 **Comparison and Analysis of Stock Returns by Investment Method**  
 - Developed an **LSTM-based stock price prediction and automated trading program** using Python  
 - Simulation period: 2017-01-01 ~ 2022-10-06 (daily stock data)  

@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is SeongYeonYun 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongYeonYun&show_icons=true&theme=radical)
 <!--
 **SeongYeonYun/SeongYeonYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learnin...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-순천향대학교 빅데이터공학과/IT 금융경영학과 (졸업)
+- 🎓 Graduated from Soonchunhyang University(순천향대학교) (B.S. in Big Data Engineering / IT Financial Management)
 
-데이터 분석 준전문가 ADSP
+
+데이터 분석 준전문가(ADSP)
 순천향대학교 빅데이터 공학과[제 2회 빅데이터 분석 및 개발 경진대회] 장려상
 PC정비사 2급

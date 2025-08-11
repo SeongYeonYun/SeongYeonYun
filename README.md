@@ -16,9 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-- 🎓 Graduated from Soonchunhyang University(순천향대학교) (B.S. in Big Data Engineering / IT Financial Management)
+- 🎓 Graduated from Soonchunhyang University(순천향대학교)
+- (B.S. in Big Data Engineering / IT Financial Management)
+------------------------------------------------------------------
+- 🌐 Extracurricular: Chungcheongnam-do Public Data Supporters  
+  - Requested and proposed new public datasets to local public institutions via the Public Data Portal
+
+### 🏆 Awards
+순천향대학교 빅데이터 공학과[제 2회 빅데이터 분석 및 개발 경진대회] 장려상
+
 
 
 데이터 분석 준전문가(ADSP)
-순천향대학교 빅데이터 공학과[제 2회 빅데이터 분석 및 개발 경진대회] 장려상
+
 PC정비사 2급

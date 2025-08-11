@@ -7,9 +7,11 @@
   the MES (Manufacturing Execution System) support program  
   Assisted in data processing, cleaning, and analysis for internal research projects
 
+
 ### 🎓 Education
 - **Soonchunhyang University (순천향대학교)**  
   B.S. in Big Data Engineering / IT Financial Management
+
 
 ### 📄 Research / Graduation Thesis (2023)
 **Comparison and Analysis of Stock Returns by Investment Method**  

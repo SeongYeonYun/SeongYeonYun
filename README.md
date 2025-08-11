@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
+### 💼 Experience
+- **2021.07 – 2021.08** — Student Intern, Korea Management Analysis Institute  
+  - Implemented web crawling in R to retrieve equipment prices required for the MES (Manufacturing Execution System) support program  
+  - Assisted in data processing, cleaning, and analysis for internal research projects
+
+
 ### 🎓 Graduated from Soonchunhyang University(순천향대학교)
 - (B.S. in Big Data Engineering / IT Financial Management)
 ------------------------------------------------------------------

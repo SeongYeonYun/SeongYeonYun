@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+순천향대학교 빅데이터공학과/IT 금융경영학과 (졸업)
+
+데이터 분석 준전문가 ADSP
 순천향대학교 빅데이터 공학과[제 2회 빅데이터 분석 및 개발 경진대회] 장려상

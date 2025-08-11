@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 데이터 분석 준전문가 ADSP
 순천향대학교 빅데이터 공학과[제 2회 빅데이터 분석 및 개발 경진대회] 장려상
+PC정비사 2급

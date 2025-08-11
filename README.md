@@ -11,6 +11,15 @@
 - **Soonchunhyang University (순천향대학교)**  
   B.S. in Big Data Engineering / IT Financial Management
 
+### 📄 Research / Graduation Thesis (2023)
+**Comparison and Analysis of Stock Returns by Investment Method**  
+- Developed an **LSTM-based stock price prediction and automated trading program** using Python  
+- Simulation period: 2017-01-01 ~ 2022-10-06 (daily stock data)  
+- Compared **Bollinger Bands** strategy with **LSTM** strategy, and experimented with a hybrid approach  
+- Conducted performance evaluation and profitability analysis based on historical simulation results  
+- Department of Big Data Engineering, Soonchunhyang University
+
+
 ### 🌐 Extracurricular
 - **2019~2020** — Chungcheongnam-do Public Data Supporters  
   Requested and proposed new public datasets to local public institutions  

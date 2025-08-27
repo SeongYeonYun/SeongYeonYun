@@ -35,7 +35,7 @@
 
 
 ### 🌐 Extracurricular
-- **2019~2020** — 충청남도 공공데이터 발굴 서포터즈  
+- **2019.09.06~2021.09.05** — 충청남도 공공데이터 발굴 서포터즈  
   Requested and proposed new public datasets to local public institutions  
   via the Public Data Portal  
 
